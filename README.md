@@ -1,1 +1,1 @@
-# deltademo
+# delta-demo
